@@ -52,31 +52,31 @@ if st.button('Calc my damage'):
     # boss type info
     # stupid rock paper scissors that my stupid brain just refuses to remember!
     if bosstype == "Melee":
-        if weapelement == "Melee":
+        if weaptype == "Melee":
             tvar = 0
-        elif weapelement == "Ranged":
+        elif weaptype == "Ranged":
             tvar = -0.1  # ranged loses to melee
-        elif weapelement == "Magic":
+        elif weaptype == "Magic":
             tvar = 0.1  # magic wins to melee
         else:
             tvar = 0
 
     elif bosstype == "Ranged":
-        if weapelement == "Melee":
+        if weaptype == "Melee":
             tvar = 0.1  # melee wins to ranged
-        elif weapelement == "Ranged":
+        elif weaptype == "Ranged":
             tvar = 0
-        elif weapelement == "Magic":
+        elif weaptype == "Magic":
             tvar = -0.1  # magic loses to ranged
         else:
             tvar = 0
 
     elif bosstype == "Magic":
-        if weapelement == "Melee":
+        if weaptype == "Melee":
             tvar = -0.1  # melee loses to magic
-        elif weapelement == "Ranged":
+        elif weaptype == "Ranged":
             tvar = 0.1  # ranged wins to magic
-        elif weapelement == "Magic":
+        elif weaptype == "Magic":
             tvar = 0
         else:
             tvar = 0
@@ -89,6 +89,8 @@ if st.button('Calc my damage'):
 
     if weapdmg == 0:
         st.write('Select a weapon u idiot')
+    elif lvl == 0:
+        st.write("you're level 0? try again")
     else:
         basedmg = float(3.5 + ((lvl / 10) - 2.34 + (3.65 * np.log(lvl))) / 2)
         weapondmg = float(weapdmg)
