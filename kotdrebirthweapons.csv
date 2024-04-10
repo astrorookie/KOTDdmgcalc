@@ -1,206 +1,209 @@
-﻿3,Melee,Basic Great Sword,3,Blessed
-4,Melee,Basic Lance,1.5,Cursed
-5,Ranged,Basic Spear,4,Synthetic
-6,Ranged,Basic Crossbow,2,Air
-7,Magic,Basic Fire Staff,3.5,Sun
-8,Magic,Basic Water Wand,2,Moon
-9,Melee,Wooden Sword,3,Earth
-10,Magic,High Priest's Sceptre Handle,4.5,Blessed
-11,Magic,Mass Lambiguity,5,Sun
-12,Melee,Dwarf Bread,3.5,Organic
-13,Melee,Hat-trick of Hectic Halberds,6,Synthetic
-14,Magic,Galadriel's Mirror,2,Blessed
-15,Melee,Dawnbringer,5,Sun
-16,Melee,The Homelite XL Chainsaw,5.5,Synthetic
-17,Magic,Spear of Darkness,5.5,Moon
-18,Magic,The Book of Names,6.5,Cursed
-19,Melee,Fenrir's Silver Folly,2,Synthetic
-20,Melee,The Iron Ruler,7,Earth
-21,Magic,Collar at the Gates of Heck,7,Fire
-22,Ranged,Attack Moon,8.5,Moon
-23,Melee,Worldslayer,7,Air
-24,Melee,Blade of Grass,4,Earth
-25,Melee,Pitchfork of Twilight,7.5,Moon
-26,Melee,Electric Squid,8.5,Water
-27,Ranged,El-Bow,7,Organic
-28,Magic,Saddle of Lightspeed,10,Blessed
-29,Melee,Shining Axe of Door-Breaking,10,Organic
-30,Ranged,The Spoon of Delightfulness,15,Cursed
-31,Ranged,Lava Trebuchet,9.5,Air
-32,Melee,Triple Wield Swords,9,Air
-33,Melee,The Tempmute Sword,6,Blessed
-34,Ranged,Hedgehog Cannonball,6,Cursed
-35,Melee,Mothers Wrath,10,Blessed
-36,Melee,Rat Chucks,1,Cursed
-37,Ranged,Red Paint,7.5,Earth
-38,Ranged,Golden Wallet,7.5,Synthetic
-39,Ranged,Trident of Tails,10.5,Organic
-40,Magic,Weird Looking Fang,4.5,Cursed
-41,Ranged,Claws of the Dragon,12.5,Earth
-42,Magic,Cat Eyes,10.5,Moon
-43,Magic,Diadem of doornails,9.5,Synthetic
-44,Magic,Fossilised Cake Slice,6.5,Earth
-45,Ranged,Combat Parasol,5.5,Sun
-46,Melee,Ruined Pickaxe,15,Synthetic
-47,Ranged,Ashen fish hook,15,Fire
-48,Magic,Lifespoon,15,Organic
-56,Magic,Oopsie daisy,10,Water
-400,Melee,Box of Matches,1,Fire
-401,Melee,Dismembered Arm,1,Organic
-402,Melee,Jar of Dirt,1,Earth
-403,Ranged,Holy Water,1,Blessed
-404,Ranged,Barrage of Insults,1,Cursed
-405,Ranged,Water Balloon,1,Water
-406,Ranged,Moon Rocks,1,Moon
-407,Magic,Hacking Tool,1,Synthetic
-408,Magic,Ornamental Fan,1,Air
-409,Magic,Magnifying Glass,1,Sun
-540,Melee,☆Dusty ol' lightsaber☆,10.5,Sun
-541,Ranged,☆Somewhat accurate blaster☆,10.5,Sun
-542,Magic,☆That janky force☆,10.5,Sun
-1000,Melee,☆The Randomizer☆,15,Organic
-2001,Melee,Rat on a Pear Stick,1,Organic
-2002,Melee,Two French Men,2,Cursed
-2003,Magic,Three Doors Kicked,3,Earth
-2004,Magic,Four Golden Coins,4,Synthetic
-2005,Ranged,Five Fanatical Followers,5,Organic
-2006,Ranged,Six Geese Slaying,6,Sun
-2007,Magic,Seven Swans A-Swearing,7,Earth
-2008,Melee,Eight Flames Dancing,8,Fire
-2009,Ranged,Nine Maids Coding,9,Blessed
-2010,Ranged,Ten Bugs Fixoed,10,Air
-2011,Melee,Eleven Helpers Helping,11,Cursed
-2012,Magic,☆Twelve Mystical Fruits☆,12,Organic
-2013,Magic,☆any% speedrun☆,1,Cursed
-2014,Magic,☆A fragment from another world☆,1,Organic
-2015,Melee,Bingo Bludeoner,5,Water
-2016,Magic,Bingo Bewitcher,5,Water
-2017,Ranged,Bingo Ball,5,Water
-2018,Magic,Chemical X,5,Water
-2019,Magic,Dads Choco Spaghetti Code,14,Fire
-2020,Melee,Magical Girl Maid Outfit,14,Water
-2021,Ranged,Zoruda's Love Bug,14,Organic
-2023,Melee,Mourtuorum,8.5,Cursed
-2025,Melee,☆Thorny Rose Bouquet☆,14,Organic
-2026,Ranged,☆Mother's Advice☆,14,Organic
-2027,Magic,☆Orb of Life☆,14,Organic
-2029,Melee,☆R.A.T. on a Stick☆,11,Earth
-2030,Ranged,☆B.A.T. on a String☆,11,blessed
-2031,Magic,☆C.A.T. Badge on a Lapel☆,11,air
-2032,Ranged,Pickled Artisnal Turnip,4,earth
-2033,Magic,Deliriously Amazing Toad,4,blessed
-2034,Melee,Ridiculously Adorable Trout,4,blessed
-2036,Ranged,Gibbucks,1.5,Blessed
-2037,Melee,Ultra Hammer,15,Earth
-2038,Ranged,Ultra Boots,15,Water
-2039,Magic,Fire Flower,15,Fire
-2222,Magic,☆Flower crown of Zoruda☆,2,Blessed
-3000,Magic,☆I led 20 raids in April and all I got was this lousy orb☆,8,Air
-3001,Melee,☆I led 20 raids in April and all I got was this lousy whip☆,8,Air
-3002,Ranged,☆I led 20 raids in April and all I got was this lousy crossbow☆,8,Air
-3003,Melee,☆I led 20 raids in May and all I got was this lousy dagger☆,8,Synthetic
-3004,Ranged,☆I led 20 raids in May and all I got was this lousy slingshot☆,8,Synthetic
-3005,Magic,☆I led 20 raids in May and all I got was this lousy wand☆,8,Synthetic
-3006,Melee,☆I led 20 raids in June and all I got was this lousy dagger☆,8,Water
-3007,Ranged,☆I led 20 raids in June and all I got was this lousy pea shooter☆,8,Water
-3008,Magic,☆I led 20 raids in June and all I got was this lousy gemstone☆,8,Water
-3009,Melee,☆I lead 20 raids in July and all I got was this nail file☆,8,Cursed
-3010,Ranged,☆I lead 20 raids in July and all I got was this bubble gun☆,8,Cursed
-3011,Magic,☆I lead 20 raids in July and all I got was this pouch of pixie dust☆,8,Cursed
-3012,Melee,☆I lead 20 raids in August and all I got was this carrot☆,8,Earth
-3013,Ranged,☆I lead 20 raids in August and all I got was this nut☆,8,Earth
-3014,Magic,☆I lead 20 raids in August and all I got was this mushroom☆,8,Earth
-3015,Melee,☆I lead 20 raids in September and all I got was this lousy bat☆,8,Sun
-3016,Ranged,☆I lead 20 raids in September and all I got was this lousy rat☆,8,Sun
-3017,Magic,☆I lead 20 raids in September and all I got was this lousy cat☆,8,Sun
-3018,Melee,☆I led 20 raids in October and all I got was this lousy toothpick☆,8,Moon
-3019,Ranged,☆I led 20 raids in October and all I got was this lousy rubber band ball☆,8,Moon
-3020,Magic,☆I led 20 raids in October and all I got was this lousy breathmint☆,8,Moon
-3021,Melee,☆I led 20 raids in November and all I got was this lousy turkey☆,8,Organic
-3022,Ranged,☆I led 20 raids in November and all I got was these lousy mashed potatoes☆,8,Organic
-3023,Magic,☆I led 20 raids in November and all I got was this lousy pumpkin pie☆,8,Organic
-4000,Melee,SUPER KICK,10,Blessed
-4001,Ranged,Firey Flail of Failed Relationships,9,Blessed
-4002,Magic,Expired Rubber in your Wallet,8,Water
-4003,Melee,Terrible Opening Line,7,Fire
-4004,Ranged,Lover's Lasso,6,Water
-4005,Magic,Love Potion,5,Air
-4006,Ranged,Cupid's Badly Damaged Bow,4,Fire
-4007,Melee,Well Worn Fedora,3,Sun
-4008,Magic,Twinkle in Your Eyes,2,Organic
-4009,Ranged,Reinforced Glove,1,Blessed
-4010,Melee,SUPER SLAM,1,Cursed
-5000,Magic,☆Fart Staff☆,17,Earth
-5001,Magic,☆Vewwy Angewwy Widdle Fuwwy☆,12,Fire
-5002,Melee,☆Wa Wa Wee Wa -Borat☆,16,fire
-5003,Melee,☆ The Game ☆,12,fire
-5004,Ranged,☆Sealed crate of Missiles☆,14,moon
-5005,Ranged,☆P.L.A.N.T. - Persistently Lonely and Needs Tendies☆,11,water
-5007,Melee,Semi-Pointy Stick of the Woefully Unprepared,17,Moon
-5008,Melee,Herbalist's Shop of Horrors,14,Cursed
-5009,Ranged,When The Moon Hits Your Eye Like A Big Pizza Pie Syc-A-Mor-E!!,17,Blessed
-5010,Magic,Stinky Bowl of Rain Water,10,Water
-5011,Magic,Glittery McDonald's Ball Pit,12,Synthetic
-5012,Melee,Illiteracy,10,Water
-5013,Melee,In-Corvid-Gible,9,Cursed
-5014,Melee,Baa Baa Sheep Shrek Have You Any Wool,9,Sun
-5015,Ranged,Liz's Crotchety Old Hookers,6,Blessed
-5016,Magic,Snake Judge,5,Water
-5017,Magic,Box of Instant Friendship Loss,6,Air
-5018,Ranged,Stale White Bread Loaf,5,Blessed
-5087,Ranged,☆I am the bounty hunter☆,8,Cursed
-6900,Magic,☆Holy Moly Skipper Abuse☆,12,Blessed
-6901,Magic,☆Spookie Dookie Skipper Abuse☆,12,Cursed
-6902,Magic,☆Moon Moon Skipper Abuse☆,12,Moon
-6903,Magic,☆Phyrexian Skipper Abuse☆,12,Synthetic
-6904,Magic,☆We didn't start the Skipper Abuse☆,12,Fire
-6905,Magic,☆Sunburnt Skipper Abuse☆,12,Sun
-6906,Magic,☆Free Range Skipper Abuse☆,12,Organic
-6907,Magic,☆Drippy Skipper Abuse☆,12,Water
-6908,Magic,☆Category 5 Skipper Abuse☆,12,Air
-6909,Magic,☆Pocket Sand Skipper Abuse☆,12,Earth
-9000,Melee,Lightbringer,12,Blessed
-9001,Melee,lmelee,8,Water
-9002,Ranged,CopyKat,12,Cursed
-9003,Magic,Rave Cannon,12,Air
-9004,Melee,Kingslayer,12,Sun
-9005,Melee,Soul Scythe,12,Cursed
-9006,Magic,Scuff,12,Cursed
-9007,Melee,Vorpal Sword,12,Air
-9008,Ranged,The Silver Arrow,12,Sun
-9009,Ranged,The Lunar Bow,12,Moon
-9010,Ranged,Master Chief's Battle Rifle,12,Sun
-9011,Melee,Murder on the Dance Floor,12,Blessed
-9012,Magic,Lustrous Orb Rosé,12,Sun
-9013,Melee,Tempest Nail,12,Air
-10310,Melee,Tricky Bonk,4.5,Air
-10311,Ranged,Tricky Pew Pew,4.5,Water
-10312,Magic,Tricky Zap Zap,4.5,Blessed
-10313,Melee,Treat Filled Hammer,10.5,Moon
-10314,Ranged,Treat Filled Blow-dart,10.5,Synthetic
-10315,Magic,Treat Filled Magic Bean,10.5,Earth
-12000,Melee,The Jingle Bell Smock,1,Synthetic
-12001,Ranged,A kiss under the Missile-toes,1,Fire
-12002,Magic,Fruitcake,1,Organic
-12003,Melee,Silent Knight,1,Earth
-12004,Ranged,Lump of Coal,1,Cursed
-12005,Magic,The Magic of Snootmas,1,Blessed
-12006,Melee,Wrapping paper tube,1,Air
-12007,Ranged,Christmas Star Topper,1,Sun
-12008,Magic,Milk and Cookies,1,Water
-12009,Melee,The Bleak Midwinter,1,Moon
-12010,Ranged,Gingerbread arrow,1,Synthetic
-12011,Magic,The Naughty List,1,Cursed
-12012,Melee,The Nice List,1,Blessed
-12013,Ranged,Christmas Tree Cannon,1,Organic
-12014,Magic,Santa's Sleighbells,1,Fire
-12015,Melee,Gold,1,Earth
-12016,Ranged,Frankincense,1,Air
-12017,Magic,Myrrh,1,Water
-12018,Melee,Tinsel Wrapped Bat,1,Sun
-12019,Ranged,Reindeer Hooves,1,Moon
-12020,Magic,Candy Cane Wand,1,Fire
-12021,Melee,Yule Log,1,Earth
-12022,Ranged,Santa's Little Helpers,1,Cursed
-12023,Magic,Christmas Themed Temporal Distortion,1,Air
-12024,Melee,Snoot's Christmas Spirit,1,Sun
+3,Melee,Basic Great Sword,3,Blessed,1
+4,Melee,Basic Lance,1.5,Cursed,1
+5,Ranged,Basic Spear,4,Synthetic,1
+6,Ranged,Basic Crossbow,2,Air,1
+7,Magic,Basic Fire Staff,3.5,Sun,1
+8,Magic,Basic Water Wand,2,Moon,1
+9,Melee,Wooden Sword,3,Earth,1
+10,Magic,High Priest's Sceptre Handle,4.5,Blessed,10
+11,Magic,Mass Lambiguity,5,Sun,10
+12,Melee,Dwarf Bread,3.5,Organic,10
+13,Melee,Hat-trick of Hectic Halberds,6,Synthetic,10
+14,Magic,Galadriel's Mirror,2,Blessed,10
+15,Melee,Dawnbringer,5,Sun,15
+16,Melee,The Homelite XL Chainsaw,5.5,Synthetic,15
+17,Magic,Spear of Darkness,5.5,Moon,15
+18,Magic,The Book of Names,6.5,Cursed,15
+19,Melee,Fenrir's Silver Folly,2,Synthetic,15
+20,Melee,The Iron Ruler,7,Earth,20
+21,Magic,Collar at the Gates of Heck,7,Fire,20
+22,Ranged,Attack Moon,8.5,Moon,25
+23,Melee,Worldslayer,7,Air,25
+24,Melee,Blade of Grass,4,Earth,25
+25,Melee,Pitchfork of Twilight,7.5,Moon,30
+26,Melee,Electric Squid,8.5,Water,35
+27,Ranged,El-Bow,7,Organic,35
+28,Magic,Saddle of Lightspeed,10,Blessed,35
+29,Melee,Shining Axe of Door-Breaking,10,Organic,40
+30,Ranged,The Spoon of Delightfulness,15,Cursed,45
+31,Ranged,Lava Trebuchet,9.5,Air,45
+32,Melee,Triple Wield Swords,9,Air,45
+33,Melee,The Tempmute Sword,6,Blessed,45
+34,Ranged,Hedgehog Cannonball,6,Cursed,50
+35,Melee,Mothers Wrath,10,Blessed,50
+36,Melee,Rat Chucks,1,Cursed,50
+37,Ranged,Red Paint,7.5,Earth,55
+38,Ranged,Golden Wallet,7.5,Synthetic,55
+39,Ranged,Trident of Tails,10.5,Organic,55
+40,Magic,Weird Looking Fang,4.5,Cursed,60
+41,Ranged,Claws of the Dragon,12.5,Earth,60
+42,Magic,Cat Eyes,10.5,Moon,60
+43,Magic,Diadem of doornails,9.5,Synthetic,70
+44,Magic,Fossilised Cake Slice,6.5,Earth,70
+45,Ranged,Combat Parasol,5.5,Sun,70
+46,Melee,Ruined Pickaxe,15,Synthetic,80
+47,Ranged,Ashen fish hook,15,Fire,80
+48,Magic,Lifespoon,15,Organic,80
+56,Magic,Oopsie daisy,10,Water,1
+400,Melee,Box of Matches,1,Fire,1
+401,Melee,Dismembered Arm,1,Organic,1
+402,Melee,Jar of Dirt,1,Earth,1
+403,Ranged,Holy Water,1,Blessed,1
+404,Ranged,Barrage of Insults,1,Cursed,1
+405,Ranged,Water Balloon,1,Water,1
+406,Ranged,Moon Rocks,1,Moon,1
+407,Magic,Hacking Tool,1,Synthetic,1
+408,Magic,Ornamental Fan,1,Air,1
+409,Magic,Magnifying Glass,1,Sun,1
+540,Melee,☆Dusty ol' lightsaber☆,10.5,Sun,1
+541,Ranged,☆Somewhat accurate blaster☆,10.5,Sun,1
+542,Magic,☆That janky force☆,10.5,Sun,1
+1000,Melee,☆The Randomizer☆,15,Organic,1
+2001,Melee,Rat on a Pear Stick,1,Organic,1
+2002,Melee,Two French Men,2,Cursed,1
+2003,Magic,Three Doors Kicked,3,Earth,1
+2004,Magic,Four Golden Coins,4,Synthetic,1
+2005,Ranged,Five Fanatical Followers,5,Organic,1
+2006,Ranged,Six Geese Slaying,6,Sun,1
+2007,Magic,Seven Swans A-Swearing,7,Earth,1
+2008,Melee,Eight Flames Dancing,8,Fire,1
+2009,Ranged,Nine Maids Coding,9,Blessed,1
+2010,Ranged,Ten Bugs Fixoed,10,Air,1
+2011,Melee,Eleven Helpers Helping,11,Cursed,1
+2012,Magic,☆Twelve Mystical Fruits☆,12,Organic,1
+2013,Magic,☆any% speedrun☆,1,Cursed,1
+2014,Magic,☆A fragment from another world☆,1,Organic,1
+2015,Melee,Bingo Bludeoner,5,Water,1
+2016,Magic,Bingo Bewitcher,5,Water,1
+2017,Ranged,Bingo Ball,5,Water,1
+2018,Magic,Chemical X,5,Water,1
+2019,Magic,Dads Choco Spaghetti Code,14,Fire,1
+2020,Melee,Magical Girl Maid Outfit,14,Water,1
+2021,Ranged,Zoruda's Love Bug,14,Organic,1
+2023,Melee,Mourtuorum,8.5,Cursed,1
+2025,Melee,☆Thorny Rose Bouquet☆,14,Organic,1
+2026,Ranged,☆Mother's Advice☆,14,Organic,1
+2027,Magic,☆Orb of Life☆,14,Organic,1
+2029,Melee,☆R.A.T. on a Stick☆,11,Earth,1
+2030,Ranged,☆B.A.T. on a String☆,11,blessed,1
+2031,Magic,☆C.A.T. Badge on a Lapel☆,11,air,1
+2032,Ranged,Pickled Artisnal Turnip,4,earth,1
+2033,Magic,Deliriously Amazing Toad,4,blessed,1
+2034,Melee,Ridiculously Adorable Trout,4,blessed,1
+2036,Ranged,Gibbucks,1.5,Blessed,1
+2037,Melee,Ultra Hammer,15,Earth,1
+2038,Ranged,Ultra Boots,15,Water,1
+2039,Magic,Fire Flower,15,Fire,1
+2222,Magic,☆Flower crown of Zoruda☆,2,Blessed,1
+3000,Magic,☆I led 20 raids in April and all I got was this lousy orb☆,8,Air,1
+3001,Melee,☆I led 20 raids in April and all I got was this lousy whip☆,8,Air,1
+3002,Ranged,☆I led 20 raids in April and all I got was this lousy crossbow☆,8,Air,1
+3003,Melee,☆I led 20 raids in May and all I got was this lousy dagger☆,8,Synthetic,1
+3004,Ranged,☆I led 20 raids in May and all I got was this lousy slingshot☆,8,Synthetic,1
+3005,Magic,☆I led 20 raids in May and all I got was this lousy wand☆,8,Synthetic,1
+3006,Melee,☆I led 20 raids in June and all I got was this lousy dagger☆,8,Water,1
+3007,Ranged,☆I led 20 raids in June and all I got was this lousy pea shooter☆,8,Water,1
+3008,Magic,☆I led 20 raids in June and all I got was this lousy gemstone☆,8,Water,1
+3009,Melee,☆I lead 20 raids in July and all I got was this nail file☆,8,Cursed,1
+3010,Ranged,☆I lead 20 raids in July and all I got was this bubble gun☆,8,Cursed,1
+3011,Magic,☆I lead 20 raids in July and all I got was this pouch of pixie dust☆,8,Cursed,1
+3012,Melee,☆I lead 20 raids in August and all I got was this carrot☆,8,Earth,1
+3013,Ranged,☆I lead 20 raids in August and all I got was this nut☆,8,Earth,1
+3014,Magic,☆I lead 20 raids in August and all I got was this mushroom☆,8,Earth,1
+3015,Melee,☆I lead 20 raids in September and all I got was this lousy bat☆,8,Sun,1
+3016,Ranged,☆I lead 20 raids in September and all I got was this lousy rat☆,8,Sun,1
+3017,Magic,☆I lead 20 raids in September and all I got was this lousy cat☆,8,Sun,1
+3018,Melee,☆I led 20 raids in October and all I got was this lousy toothpick☆,8,Moon,1
+3019,Ranged,☆I led 20 raids in October and all I got was this lousy rubber band ball☆,8,Moon,1
+3020,Magic,☆I led 20 raids in October and all I got was this lousy breathmint☆,8,Moon,1
+3021,Melee,☆I led 20 raids in November and all I got was this lousy turkey☆,8,Organic,1
+3022,Ranged,☆I led 20 raids in November and all I got was these lousy mashed potatoes☆,8,Organic,1
+3023,Magic,☆I led 20 raids in November and all I got was this lousy pumpkin pie☆,8,Organic,1
+4000,Melee,SUPER KICK,10,Blessed,1
+4001,Ranged,Firey Flail of Failed Relationships,9,Blessed,1
+4002,Magic,Expired Rubber in your Wallet,8,Water,1
+4003,Melee,Terrible Opening Line,7,Fire,1
+4004,Ranged,Lover's Lasso,6,Water,1
+4005,Magic,Love Potion,5,Air,1
+4006,Ranged,Cupid's Badly Damaged Bow,4,Fire,1
+4007,Melee,Well Worn Fedora,3,Sun,1
+4008,Magic,Twinkle in Your Eyes,2,Organic,1
+4009,Ranged,Reinforced Glove,1,Blessed,1
+4010,Melee,SUPER SLAM,1,Cursed,1
+5000,Magic,☆Fart Staff☆,17,Earth,1
+5001,Magic,☆Vewwy Angewwy Widdle Fuwwy☆,12,Fire,1
+5002,Melee,☆Wa Wa Wee Wa -Borat☆,16,fire,1
+5003,Melee,☆ The Game ☆,12,fire,1
+5004,Ranged,☆Sealed crate of Missiles☆,14,moon,1
+5005,Ranged,☆P.L.A.N.T. - Persistently Lonely and Needs Tendies☆,11,water,1
+5007,Melee,Semi-Pointy Stick of the Woefully Unprepared,17,Moon,1
+5008,Melee,Herbalist's Shop of Horrors,14,Cursed,1
+5009,Ranged,When The Moon Hits Your Eye Like A Big Pizza Pie Syc-A-Mor-E!!,17,Blessed,1
+5010,Magic,Stinky Bowl of Rain Water,10,Water,1
+5011,Magic,Glittery McDonald's Ball Pit,12,Synthetic,1
+5012,Melee,Illiteracy,10,Water,1
+5013,Melee,In-Corvid-Gible,9,Cursed,1
+5014,Melee,Baa Baa Sheep Shrek Have You Any Wool,9,Sun,1
+5015,Ranged,Liz's Crotchety Old Hookers,6,Blessed,1
+5016,Magic,Snake Judge,5,Water,1
+5017,Magic,Box of Instant Friendship Loss,6,Air,1
+5018,Ranged,Stale White Bread Loaf,5,Blessed,1
+5087,Ranged,☆I am the bounty hunter☆,8,Cursed,1
+6900,Magic,☆Holy Moly Skipper Abuse☆,12,Blessed,1
+6901,Magic,☆Spookie Dookie Skipper Abuse☆,12,Cursed,1
+6902,Magic,☆Moon Moon Skipper Abuse☆,12,Moon,1
+6903,Magic,☆Phyrexian Skipper Abuse☆,12,Synthetic,1
+6904,Magic,☆We didn't start the Skipper Abuse☆,12,Fire,1
+6905,Magic,☆Sunburnt Skipper Abuse☆,12,Sun,1
+6906,Magic,☆Free Range Skipper Abuse☆,12,Organic,1
+6907,Magic,☆Drippy Skipper Abuse☆,12,Water,1
+6908,Magic,☆Category 5 Skipper Abuse☆,12,Air,1
+6909,Magic,☆Pocket Sand Skipper Abuse☆,12,Earth,1
+9000,Melee,Lightbringer,12,Blessed,1
+9001,Melee,lmelee,8,Water,1
+9002,Ranged,CopyKat,12,Cursed,1
+9003,Magic,Rave Cannon,12,Air,1
+9004,Melee,Kingslayer,12,Sun,1
+9005,Melee,Soul Scythe,12,Cursed,1
+9006,Magic,Scuff,12,Cursed,1
+9007,Melee,Vorpal Sword,12,Air,1
+9008,Ranged,The Silver Arrow,12,Sun,1
+9009,Ranged,The Lunar Bow,12,Moon,1
+9010,Ranged,Master Chief's Battle Rifle,12,Sun,1
+9011,Melee,Murder on the Dance Floor,12,Blessed,1
+9012,Magic,Lustrous Orb Rosé,12,Sun,1
+9013,Melee,Tempest Nail,12,Air,1
+10310,Melee,Tricky Bonk,4.5,Air,1
+10311,Ranged,Tricky Pew Pew,4.5,Water,1
+10312,Magic,Tricky Zap Zap,4.5,Blessed,1
+10313,Melee,Treat Filled Hammer,10.5,Moon,1
+10314,Ranged,Treat Filled Blow-dart,10.5,Synthetic,1
+10315,Magic,Treat Filled Magic Bean,10.5,Earth,1
+12000,Melee,The Jingle Bell Smock,1,Synthetic,1
+12001,Ranged,A kiss under the Missile-toes,1,Fire,1
+12002,Magic,Fruitcake,1,Organic,1
+12003,Melee,Silent Knight,1,Earth,1
+12004,Ranged,Lump of Coal,1,Cursed,1
+12005,Magic,The Magic of Snootmas,1,Blessed,1
+12006,Melee,Wrapping paper tube,1,Air,1
+12007,Ranged,Christmas Star Topper,1,Sun,1
+12008,Magic,Milk and Cookies,1,Water,1
+12009,Melee,The Bleak Midwinter,1,Moon,1
+12010,Ranged,Gingerbread arrow,1,Synthetic,1
+12011,Magic,The Naughty List,1,Cursed,1
+12012,Melee,The Nice List,1,Blessed,1
+12013,Ranged,Christmas Tree Cannon,1,Organic,1
+12014,Magic,Santa's Sleighbells,1,Fire,1
+12015,Melee,Gold,1,Earth,1
+12016,Ranged,Frankincense,1,Air,1
+12017,Magic,Myrrh,1,Water,1
+12018,Melee,Tinsel Wrapped Bat,1,Sun,1
+12019,Ranged,Reindeer Hooves,1,Moon,1
+12020,Magic,Candy Cane Wand,1,Fire,1
+12021,Melee,Yule Log,1,Earth,1
+12022,Ranged,Santa's Little Helpers,1,Cursed,1
+12023,Magic,Christmas Themed Temporal Distortion,1,Air,1
+12024,Melee,Snoot's Christmas Spirit,1,Sun,1
+12901,Ranged,Striker's Mark,4,Fire,1
+12902,Magic,Oracle,5,Organic,1
+12903,Melee,Blade of the Grave,5,Synthetic,1
